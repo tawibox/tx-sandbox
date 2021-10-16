@@ -1,2 +1,2 @@
-# tx-js
-JS playground
+# tx-sandbox
+My playground
